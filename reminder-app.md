@@ -1,5 +1,7 @@
 # Reminder App
 
+Link for git-hub repo : https://github.com/M0hitMehra/Reminder-app-vibe_coded
+
 Link to download app: https://expo.dev/artifacts/eas/hRMYyUkAqz6RPqon42Dt95.apk
 
 A robust, fully-featured Reminder application built with React Native and Expo. This app allows users to create reminders with recurring schedules, track their habits with analytics, and use a "Puzzle Mode" to enforce discipline.
